@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Pyrenote - User Profile Design & Accessible Data
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Pyrenote is a project in development by a growing group of student researchers here at UCSD. It's primary purpose is to allow anyone to contribute to research by labeling data in an intuitive and accessible way. Right now it is currently being used to develop a sort of voice recognition for birds. The goal is to make an algorithm that can strongly label data (say where in the clip a bird is calling and what bird is making the call). To do this, a very vast dataset is needed to be labeled. I worked mostly on the user experience side. Allowing them to interact with their labeling in new ways, such as keeping tabs on their progress and reaching goals. Developing a User Profile page was the primary source for receiving this data and was developed iteratively as a whole new page for the site
